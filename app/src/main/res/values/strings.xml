@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Base Project</string>
+    <string name="to_do_list">To-Do list</string>
+    <string name="tv_app_name">To-Do List</string>
+    <string name="ed_todo_title">Enter title...</string>
+    <string name="btn_add">Add</string>
+</resources>
